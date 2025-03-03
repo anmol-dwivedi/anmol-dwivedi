@@ -1,7 +1,22 @@
 <p align="left">👋 Hey there, Data Enthusiast!<br><br>Hi! I'm Anmol Dwivedi, a Data Scientist who thrives on turning raw data into actionable insights (because messy data needs love too 💙). I'm currently pursuing my MS in Business Analytics at UT Dallas 🎓 (Check it out!) and constantly expanding my expertise in machine learning, AI, and big data wizardry.<br><br>🔍 What I Do (a.k.a. My Superpowers)<br><br>🧠 Machine Learning & AI: Making machines almost as smart as humans – Supervised/Unsupervised Learning, NLP, Deep Learning, Anomaly Detection<br>🏗 Big Data & Cloud Computing: Wrangling absurd amounts of data with Spark, Hadoop, Databricks, AWS, GCP, Snowflake<br>⚙️ Data Engineering & MLOps: Automating the boring stuff – ETL, Feature Engineering, Model Deployment, CI/CD<br>📊 Business Intelligence & Visualization: Making numbers look pretty – Power BI, Tableau, SQL, Python<br>🎯 Currently Geeking Out On:<br><br>🛠 MLOps & Scalable Model Deployment<br>🤖 Generative AI & LLMs (because AI needs personality too)<br>⏳ Real-Time Data Processing & Cloud ML Solutions<br>📫 Let's Connect (or just talk about Data Memes! 🤓)<br><br>💡 "Data is like pizza – it’s best when sliced, structured, and shared!" 🍕🚀</p>
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in/anmol-dwivedi-2537691a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="dwivedi.anmol1996@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/anmoldwivedi1996/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@anmoldwivedi7205" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmol-dwivedi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-dwivedi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -53,20 +68,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anmol-dwivedi-2537691a0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="dwivedi.anmol1996@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/anmoldwivedi1996/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@anmoldwivedi7205" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+
 
 ###
 
