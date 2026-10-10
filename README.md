@@ -1,7 +1,44 @@
-# Anmol Dwivedi - [My Portfolio](https://anmol-dwivedi-portfolio.netlify.app/)
-<p align="left"> Hey there, Data Enthusiast!<br><br>Hi! I'm Anmol Dwivedi, a Data Scientist who thrives on turning raw data into actionable insights (because messy data needs love too ). I'm currently pursuing my  <a href="https://infosystems.utdallas.edu/ms-business-analytics-cohort/" target="_blank">MS in Business Analytics at UT Dallas</a> and constantly expanding my expertise in machine learning, AI, and big data wizardry.<br><br> What I Do (a.k.a. My Superpowers)<br><br> Machine Learning & AI: Making machines almost as smart as humans – Supervised/Unsupervised Learning, NLP, Deep Learning, Anomaly Detection<br> Big Data & Cloud Computing: Wrangling absurd amounts of data with Spark, Hadoop, Databricks, AWS, GCP, Snowflake<br>⚙️ Data Engineering & MLOps: Automating the boring stuff – ETL, Feature Engineering, Model Deployment, CI/CD<br> Business Intelligence & Visualization: Making numbers look pretty – Power BI, Tableau, SQL, Python<br> Currently Geeking Out On:<br><br>🛠 MLOps & Scalable Model Deployment<br> Generative AI & LLMs (because AI needs personality too)<br> Real-Time Data Processing & Cloud ML Solutions<br> Let's Connect (or just talk about Data Memes! )<br><br> "Data is like pizza – it’s best when sliced, structured, and shared!" </p>
+# Hi, I'm Annu 👋
+### AI Product Manager | Agentic AI | ML Products
 
+I'm a product manager working on AI and agentic products. I like getting close to the tech: prototyping ideas, testing what models can and can't do, and figuring out how to turn that into something people actually use.
+
+This is where I tinker, prototype, and build things outside of work.
+
+🔗 [Portfolio](https://anmol-dwivedi-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/anmol-dwivedi-2537691a0/)
+
+---
+
+### 🛠 What you'll find here
+
+- **AI agent prototypes:** experiments with LLMs, tool use, and agent workflows
+- **ML projects:** recommendation and decision-support models, end to end
+- **Product side projects:** small apps I build to test an idea quickly
+- **Analytics work:** data exploration and dashboards from my MS coursework
+
+---
+
+### 🧰 Tools I work with
+
+**AI/ML:** Python, LLM APIs, prompt engineering, scikit-learn
+**Cloud & Data:** AWS (ML certified), SQL
+**Product:** PRDs, user research, experimentation, roadmapping
+
+---
+
+### 🌱 Currently exploring
+
+- Evaluating AI agents beyond "it looks right"
+- When an agent should act on its own vs. hand control back to the user
+- Voice and multimodal interfaces
+
+---
+
+🎓 MS in Business Analytics & AI, UT Dallas · 📍 Dallas, TX
+
+Always open to chatting about AI products, agents, or interesting side projects.
 ###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/anmol-dwivedi-2537691a0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
